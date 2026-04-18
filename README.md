@@ -118,7 +118,7 @@ const mateusz = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mmaladza-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mmaladza)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateusz-malaga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-malaga-8949703b9/)
 [![Email](https://img.shields.io/badge/Email-Say%20hi!-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mateusz.malaga.dev@gmail.com)
 
 </div>
@@ -154,7 +154,7 @@ Poza kodowaniem: regularne treningi na siłowni 🏋️, maratony filmów przyro
 - **rate-limiter-py** — implementacja token bucket i sliding window
 
 ### Kontakt
-Najłatwiej przez [LinkedIn](https://linkedin.com/in/mateusz-malaga) lub wiadomość na GitHubie.
+Najłatwiej przez [LinkedIn](https://www.linkedin.com/in/mateusz-malaga-8949703b9/) lub wiadomość na GitHubie.
 
 </details>
 
