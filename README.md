@@ -154,7 +154,7 @@ Poza kodowaniem: regularne treningi na siłowni 🏋️, maratony filmów przyro
 - **rate-limiter-py** — implementacja token bucket i sliding window
 
 ### Kontakt
-Najłatwiej przez [LinkedIn](https://www.linkedin.com/in/mateusz-malaga-8949703b9/) lub wiadomość na GitHubie.
+Najłatwiej przez [LinkedIn](https://www.linkedin.com/in/mateusz-malaga) lub wiadomość na GitHubie.
 
 </details>
 
