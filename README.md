@@ -148,10 +148,9 @@ Student informatyki z **Krakowa**. Piszę głównie w Pythonie i TypeScript, zaj
 Poza kodowaniem: regularne treningi na siłowni 🏋️, maratony filmów przyrodniczych 🎬 i zbieranie ciekawostek z każdej możliwej dziedziny 🔬
 
 ### Wybrane projekty
-- **taskflow-api** — REST API do zarządzania zadaniami, JWT, SQLite, testy
-- **dataflow-etl** — modularny framework ETL z wymiennymi komponentami
-- **health-checker** — monitor dostępności HTTP z alertami przez webhook
-- **rate-limiter-py** — implementacja token bucket i sliding window
+- **AI-Model-Fine-Tuning** — pipeline ML do prognozowania cen złota i srebra na podstawie indeksu ryzyka geopolitycznego
+- **kalkulator_ryzyka** — aplikacja desktopowa (PyQt6) do obliczania VaR i CVaR dla portfela akcji
+- **bankowosc_model** — prognozowanie odejść klientów banku: sieć neuronowa napisana od zera w NumPy
 
 ### Kontakt
 Najłatwiej przez [LinkedIn](https://www.linkedin.com/in/mateusz-malaga) lub wiadomość na GitHubie.
