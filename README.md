@@ -79,12 +79,9 @@ const mateusz = {
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**taskflow-api**](https://github.com/Mmaladza/taskflow-api) | Task management REST API — JWT auth, SQLite, rate limiting, full test suite | Python · FastAPI · Docker |
-| [**dataflow-etl**](https://github.com/Mmaladza/dataflow-etl) | Modular ETL framework with pluggable extractors, transformers & loaders | Python · PostgreSQL |
-| [**devdash**](https://github.com/Mmaladza/devdash) | Developer productivity metrics dashboard | TypeScript · Node.js |
-| [**rate-limiter-py**](https://github.com/Mmaladza/rate-limiter-py) | Token bucket & sliding-window rate limiter library | Python |
-| [**health-checker**](https://github.com/Mmaladza/health-checker) | HTTP uptime monitor with webhook alerting & history stats | Python |
-| [**mini-kvstore**](https://github.com/Mmaladza/mini-kvstore) | In-memory key-value store with TTL expiry | Python |
+| [**AI-Model-Fine-Tuning**](https://github.com/Mmaladza/AI-Model-Fine-Tuning) | End-to-end ML pipeline forecasting gold & silver returns from Geopolitical Risk Index — XGBoost with hyperparameter tuning | Python · XGBoost · Jupyter |
+| [**kalkulator_ryzyka**](https://github.com/Mmaladza/kalkulator_ryzyka) | Desktop app for portfolio risk analysis — Value at Risk (VaR) & Conditional VaR with live stock price data | Python · PyQt6 · yfinance |
+| [**bankowosc_model**](https://github.com/Mmaladza/bankowosc_model) | Bank customer churn prediction — neural network built from scratch using NumPy only (no sklearn / no frameworks) | Python · NumPy · Jupyter |
 
 ---
 
